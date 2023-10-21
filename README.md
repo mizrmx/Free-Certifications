@@ -164,6 +164,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Liquibase |  Learn all about Liquibase fundamentals from free online courses by Liquibase experts and see how to apply them in the real world. | [Link](https://learn.liquibase.com/index) | Unknown |
 | Redis | Redis Certified Developer is our professional certification program for software developers who regularly work with Redis. | [Link](https://university.redis.com/certification/) | Unknown |
 | Databricks | Free Training: Databricks Lakehouse Fundamentals. | [Link](https://www.databricks.com/learn/training/lakehouse-fundamentals) | Unknown |
+| Google | Google Cloud fundamentals | [Link](https://www.cloudskillsboost.google/) | Unknown |
 
 
 ## Others
